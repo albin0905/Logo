@@ -1,3 +1,1 @@
-#The ReadMe
-
-##Mein Logo
+Mein Logo
